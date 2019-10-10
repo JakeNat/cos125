@@ -1,1 +1,1 @@
-# cos125
+# All lab/homework files for COS 125.
